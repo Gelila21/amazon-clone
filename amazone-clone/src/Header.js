@@ -1,5 +1,5 @@
-import React from 'react'
-import './Header.css'
+import React from 'react';
+import './Header.css';
 
 function Header() {
   return (
@@ -8,17 +8,12 @@ function Header() {
 
 
         
-       <div 
-       className = "header__search" >
+       <div  className = "header__search" >
         <input className='header__searchInput' type ="text" />
-
-
-        
-        
+ 
         </div>
   
-        <div
-            className = "header__nav" >
+        <div className = "header__nav" >
                 <div className='header__option'>
                     <span className='header__optionLineOne'>
                     Hello
