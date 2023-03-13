@@ -4,10 +4,9 @@ import './Header.css'
 function Header() {
   return (
     <div className='header'>
-        <img className='headerLogo' src = 'https://www.freepnglogos.com/images/amazon-png-logo-vector-6695.html'>
+        <img className='headerLogo' src = 'https://www.freepnglogos.com/images/amazon-png-logo-vector-6695.html'/>
 
 
-        </img>
         
        <div 
        className = "header__search" >
