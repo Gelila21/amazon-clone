@@ -4,16 +4,16 @@ import './Header.css'
 function Header() {
   return (
     <div className='header'>
-        <img className='headerLogo' src = 'https://www.freepnglogos.com/images/amazon-png-logo-vector-6695.html'/>
+        <img className='headerLogo' src = 'https://pngimg.com/uploads/amazon/amazon_PNG11.png'/>
 
 
         
        <div 
        className = "header__search" >
-        <input className='header__searchInput' type ="text" >
+        <input className='header__searchInput' type ="text" />
 
 
-        </input>
+        
         
         </div>
   
