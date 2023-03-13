@@ -1,13 +1,15 @@
-
 import './App.css';
+import Header from './Header.js';
 
 function App() {
   return (
-    <div className="App">
-      <h1>
+    //BEM
+    <div className="app">
+      <h1>  Hello programmers  </h1>
+      {/*HEADER*/}
+      <Header />
 
-      Hello programmers
-      </h1>
+      {/*HHOME PAGE*/}
     </div>
   );
 }
